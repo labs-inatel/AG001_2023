@@ -1,5 +1,7 @@
 # Projeto AG001 — Inatel
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+
 Repositório com os exercícios desenvolvidos para a atividade complementar **AG001** — INATEL (2/2023).
 
 ## Conteúdo
